@@ -3,7 +3,7 @@
     <string src="Descargar" id="download_button_text"/>
     <string src="Todas" id="all_button_text" />
     <string src="Utilidades" id="util_button_text" />
-    <string src="Emuladors" id="emu_button_text" />
-    <string src="puertos" id="port_button_text" />
+    <string src="Emuladores" id="emu_button_text" />
+    <string src="Ports" id="port_button_text" />
     <string src="Juegos" id="games_button_text" />
 </stringset>
